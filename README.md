@@ -47,7 +47,11 @@ I'm **Arian Miraki**, a developer passionate about building modern, fast and wel
 > This table is generated automatically from my public repositories every 3 hours. Descriptions come from each repo's About text or its README.
 
 <!--PROJECTS:START-->
-_Projects will appear here after the first automatic run._
+| Project | Description | Stack | Stars | Updated |
+|---|---|---|---:|---|
+| [**Online-IDE**](https://github.com/arianmi7/Online-IDE) | Requirements: Node.js ≥ 20. For running languages you need their toolchains on the machine (or use the Docker image, which ships them all). | `JavaScript` | 1 | 2026-10-07 |
+| [**auth-panel**](https://github.com/arianmi7/auth-panel) | A modern, responsive authentication panel designed with Tailwind CSS and Vite, focused on clean UI and user experience. | `JavaScript` | 1 | 2026-10-04 |
+| [**ARIANSTACK**](https://github.com/arianmi7/ARIANSTACK) | A technology platform that guides Developers from learning code to landing real Projects. | `JavaScript` | 1 | 2026-10-03 |
 <!--PROJECTS:END-->
 
 ## 📊 GitHub stats
